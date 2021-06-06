@@ -20,5 +20,6 @@
   * dans le terminal `git clone https://github.com/PhilArmonic/blackjack.git`
 
 ## Recommandations
-  * __ne pas modifier le fichier [cartes.py](../cartes.py)
+  * __ne pas modifier le fichier cartes.py__
+  * __ne pas modifier le fichier Deck.py__
 
