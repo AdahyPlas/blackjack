@@ -13,5 +13,6 @@
   * Le deux , 2, le Trois, 3, Le quatre, 4, …
   * les deux dernières cartes du Croupier doivent être retournées
   * Vous pouvez montrer vos cartes à tout le monde
-  *
+  * Si vous avez en dessous de la somme des cartes du Croupier vous avez perdu
+
 
