@@ -17,5 +17,8 @@
 
 ## Téléchargement
   
-  * dans le terminal `git clone `
+  * dans le terminal `git clone https://github.com/PhilArmonic/blackjack.git`
+
+## Recommandations
+  * __ne pas modifier le fichier [cartes.py](../cartes.py)
 
